@@ -1,2 +1,2 @@
 # NovaPeak
-Website and code for Novapeak
+The repo for NovaPeak's products and services.
